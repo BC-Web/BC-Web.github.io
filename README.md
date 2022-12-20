@@ -1,7 +1,7 @@
 BC Body Shop & Auto Repair Business Information
 
 
--Business Hours
+- Business Hours
 
 | Days of the Week | Service Hours |
 | --- | --- |
@@ -14,7 +14,7 @@ BC Body Shop & Auto Repair Business Information
 | Sunday | Closed |
 
 
--Contact Information
+- Contact Information
 
 Phone Number: (423)-475-0090
 
